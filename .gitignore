@@ -1,0 +1,8 @@
+# Ignore object files
+*.o
+
+# Ignore executable files
+*.exe
+*.out
+*.elf
+hello_world_test
